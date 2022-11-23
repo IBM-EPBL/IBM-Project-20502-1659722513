@@ -3,7 +3,7 @@ import ibm_db
 import re
 
 dsn_hostname = "815fa4db-dc03-4c70-869a-a9cc13f33084.bs2io90l08kqb1od8lcg.databases.appdomain.cloud"
-dsn_uid = "rxz06099"
+dsn_uid = "*******"
 dsn_pwd = "xw314ojpKtHYpJYh"
 
 dsn_driver = "{IBM DB2 ODBC DRIVER}"
